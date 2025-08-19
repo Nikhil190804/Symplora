@@ -129,17 +129,4 @@ This system allows employees to request leaves, view their leave history, and le
 
 ---
 
-## 🤝 Contributing
 
-1. Fork the repo
-2. Create a new branch (`feature/new-feature`)
-3. Commit your changes
-4. Push and create a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
