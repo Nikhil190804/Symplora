@@ -7,6 +7,7 @@ A full-stack **Leave Management System** built with:
 * **Database:** MongoDB (NoSQL, automatically managed collections)
 
 This system allows employees to request leaves, view their leave history, and lets administrators manage approvals, ensuring smooth office operations.
+
 Here are the Answers for Part1 & Part2: [LINK](SYMPLORA.pdf)
 ---
 
